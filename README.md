@@ -1,6 +1,6 @@
 # MicroShop - An online shopping solution equipped with microservices and docker!
 
-An e-commerce modular open source project based on ASP.NET Core 3.x, Microservices, docker, RabbitMQ, Ocelot API Gateway, MongoDB, Redis, SQL Server.
+A modular e-commerce open source project based on ASP.NET Core 3.x, Microservices, docker, RabbitMQ, Ocelot API Gateway, MongoDB, Redis, SQL Server.
 
 ## It consists of the following microservices
 - Catalog.API
